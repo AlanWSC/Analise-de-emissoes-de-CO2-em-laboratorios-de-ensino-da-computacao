@@ -4,7 +4,7 @@ import pandas as pd
 import time
 from datetime import date
 
-dados_finais = pd.read_csv('D:/Backup - Dev/Artigo/Códigos TCC/Nova planilha concatenada e códigos/dados_finais.csv')
+dados_finais = pd.read_csv('Códigos/Dashboard/dados_finais.csv')
 
 st.title("Estimativas de CO₂ Totais")
 
