@@ -1,4 +1,4 @@
-streamlit as st
-import plotly.express as px
-import pandas as pd
-import time
+streamlit 
+plotly
+pandas 
+time
