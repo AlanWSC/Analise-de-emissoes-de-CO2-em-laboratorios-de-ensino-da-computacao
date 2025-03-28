@@ -3,7 +3,7 @@ import plotly.express as px
 import pandas as pd
 import time
 
-dados_labs_abril = pd.read_csv('D:/Backup - Dev/Artigo/Códigos TCC/Nova planilha concatenada e códigos/dados_labs_abril.csv')
+dados_labs_abril = pd.read_csv('Códigos/Dashboard/dados_labs_abril.csv')
 
 st.title("Estimativas de CO₂ em Abril")
 
