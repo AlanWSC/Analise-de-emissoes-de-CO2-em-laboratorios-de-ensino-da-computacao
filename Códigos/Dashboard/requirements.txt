@@ -1,4 +1,4 @@
-streamlit
-pandas
-numpy
-matplotlib
+streamlit as 
+import plotly express 
+import pandas
+import time
