@@ -1,0 +1,31 @@
+Quantidade,ID,Modelo,CPU,TDP (CPU),GPU,RAM(GPU),TDP (GPU),RAM,HD,SO,Monitor,Consumo de energia (Monitor)
+11,1,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,2,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,3,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,4,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,5,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,6,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,7,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,8,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,9,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,10,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,11,HP Elite Desk 800 G4 SSF,Intel - Core i7-8700 3.20 - 4.60 GHz,65 W, Intel-UHD Graphics 630,8 GB,15 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+16,12,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,13,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E231 - 1920x1080 60 Hz, 33 W 
+,14,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP V255Hz - 1920x1080 60Hz,20 W
+,15,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP V255Hz - 1920x1080 60Hz,20 W
+,16,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,Samsung SA300/SA350 1366x768,29 W
+,17,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,18,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,19,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,20,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,21,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,22,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,23,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,24,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,25,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,26,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+,27,Mac mini 7.1,Intel - Core i5-4278U 2.60 - 3.10 Ghz,28 W,Intel-Iris Graphics 5100,2 GB,30 W,8 GB,500,Kubuntu,HP E233 - 1920x1080 60 Hz,19 W
+3,28,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8 GB,500,Kubuntu,Dell 2219H - 1920x1080 60Hz,14 W
+,29,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8 GB,500,Kubuntu,Samsung BX1940 1366x768,25 W
+,30,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8 GB,500,Kubuntu,AOC E2050s,18 W

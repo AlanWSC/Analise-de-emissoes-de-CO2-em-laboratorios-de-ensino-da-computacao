@@ -1,0 +1,31 @@
+k,Modelo,CPU,TDP (CPU),GPU,RAM(GPU),TDP (GPU),RAM,HD,SSD,SO,Monitor,Consumo de energia (Monitor ligado)
+1,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+2,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+3,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+4,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+5,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+6,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+7,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+8,Dell - OptiPlex 7000,Intel Core i5-12500 3.00 - 4.60 GHz,65W - 117W,Intel HD Graphics 770,8GB,15W,16GB,-,237GB,Kubuntu,Dell P2422H - 1920x1080 60 Hz,12W
+9,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,-,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+10,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,-,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+11,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+12,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+13,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+14,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+15,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+16,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+17,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+18,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+19,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+20,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+21,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+22,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+23,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+24,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+25,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+26,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+27,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+28,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+29,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 
+30,HP - Elite Desk 800 G1SFF,Intel Core i5-4570 3.20 - 3.60 GHz  ,84W,Intel HD Graphics 4600 ,8GB,45W,8GB,400GB,,Kubuntu,HP E231 - 1920x1080 60 Hz, 33W 

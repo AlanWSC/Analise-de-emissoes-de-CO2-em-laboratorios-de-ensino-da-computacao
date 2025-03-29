@@ -1,0 +1,43 @@
+Teste em computadores WIN 11,,,,,,,,,
+,,,,,,,,,
+12 minutos,,,,,,,,,Média Watts
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+FKPTXT3,24.9,125.4,"46,1","71,2","44,8","0,01",,,"54,03"
+,,,,,,,,,
+15 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+FKPTXT3,24.7,125.8,67,"44,6","57,7","0,014",,,"56,43"
+,,,,,,,,,
+,,,,,,,,,
+Com a conexão de outro computador no nobrek(Desligado),,,,,,,,,
+,,,,,,,,,
+12 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+FKPTXT3,41.9,126.2,"44,8",75,"72,2","0,011",,,"64,00"
+,,,,,,,,,
+15 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+FKPTXT3,"39,3",125.9,"47,3","70,1","45,7","0,013",,,"54,37"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Teste em computadores WIN 10,,,,,,,,,
+,,,,,,,,,
+12 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+Labcomp 3 - PC-17,52.9,101.1,"99,6","97,7","93,3","0,021",,,"96,87"
+,,,,,,,,,
+15 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+Labcomp 3 - PC-17,57.3,104.0,"95,2","99,5","97,7","0,027",,,"97,47"
+,,,,,,,,,
+,,,,,,,,,
+Com a conexão de outro computador ao nobrek(Desligado),,,,,,,,,
+,,,,,,,,,
+12 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+Labcomp 3 - PC-17,52.5,109.7,"103,2","101,1","102,7","0,02",,,"102,33"
+,,,,,,,,,
+15 minutos,,,,,,,,,
+ID do Computador,Valor Mínimo (Watts),Valor Máximo (Watts),Valor 1 (Watts),Valor 2 (Watts),Valor 3 (Watts),Consumo em kWh,,,
+Labcomp 3 - PC-17,62.2,101.2,"99,5","99,3","98,2","0,026",,,"99,00"
