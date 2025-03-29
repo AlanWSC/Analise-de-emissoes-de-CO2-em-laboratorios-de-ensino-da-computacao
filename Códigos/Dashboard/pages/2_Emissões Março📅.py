@@ -3,6 +3,8 @@ import plotly.express as px
 import pandas as pd
 import time
 
+st.set_page_config( layout="wide")
+
 dados_labs_marco = pd.read_csv('Códigos/Dashboard/dados_labs_marco.csv')
 
 st.title("Estimativas de CO₂ em Março")
