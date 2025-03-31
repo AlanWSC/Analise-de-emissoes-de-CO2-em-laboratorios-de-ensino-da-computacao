@@ -2,10 +2,10 @@ import streamlit as st
 
 st.set_page_config( layout="wide")
 
-st.title("Estimativas das Emissões de CO₂ nos Laboratórios da FACOMP-UFPA")
+st.title("Estimativas das Emissões de CO₂ nos Laboratórios")
 
 st.write("Bem-vindo ao dashboard das emissões CO₂!")
-st.write("O objetivo deste dashboard é mostrar os resultados das estimativas de carbono dos computadores nos três laboratórios da faculdade de computação da UFPA."
+st.write("O objetivo deste dashboard é mostrar os resultados das estimativas de carbono dos computadores nos três laboratórios da faculdade de computação."
 "Os dados estão distribuídos em horários de aulas, laboratórios, dias da semana e meses")
 st.write("A leitura para os horários de aula são as seguintes:"
 "(Aula 1 = 13:00/14:40)"
